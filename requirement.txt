@@ -5,3 +5,12 @@ groq
 edge-tts
 pygame
 python-dotenv
+
+"""
+Commands to install the libraries on the global system-
+
+sudo apt update
+sudo apt install -y libportaudio2 libsndfile1
+pip install -r requirements.txt
+
+"""
