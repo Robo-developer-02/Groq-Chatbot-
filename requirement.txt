@@ -1,0 +1,7 @@
+numpy
+sounddevice
+soundfile
+groq
+edge-tts
+pygame
+python-dotenv
